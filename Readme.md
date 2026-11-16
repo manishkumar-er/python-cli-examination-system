@@ -1,7 +1,18 @@
-## 📝Python Online Examination System
+## About ME !
 
+    * Name: Manish Kuamr 
+    * ERP : 01355
+    * Section: M
+    * Class : SA16
+#### Project-Tile: Online_Examination-System
+
+
+# 📝Python Online Examination System
+    
 📌Project Overview
+
      PyExam Console is a console-based online examination system developed in Python. It allows users to attempt multiple-choice questions (MCQs), validates user input, evaluates responses, calculates scores automatically, and displays the final result along with performance statistics.
+
 
 This project is designed to demonstrate fundamental Python programming concepts such as functions, lists, dictionaries, loops, conditional statements, user input handling, and result processing.
 
@@ -95,10 +106,9 @@ This project is designed to demonstrate fundamental Python programming concepts 
     d
     s
     Where:
-
-    a, b, c, d → Answer choices
-    s → Skip the question
-    Invalid inputs are rejected and the user is prompted again.
+        a, b, c, d → Answer choices
+        s → Skip the question
+        Invalid inputs are rejected and the user is prompted again.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [🎯] Answer Evaluation Logic:-----
     Correct Answer

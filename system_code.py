@@ -63,4 +63,5 @@ def online_exam():
     else:
         print("Result: Fail")
         
-online_exam()
+if __name__=="__main__":
+    online_exam()

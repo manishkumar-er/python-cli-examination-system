@@ -6,7 +6,7 @@
 def online_exam():
     
     container=[
-        
+               
         {"q":"Q1-->  Python is written in which language ? " , "options":"a)C++  b)C  c)Python d)None ","ans":"b"},
         {"q":"Q2-->  Which is not the python data type ? " , "options":"a)List b)Dictionary  c)Array   d)Tuple ","ans":"c"},
         {"q":"Q3-->  Which is the exponential operator? " , "options":"a)*** b)**  c)^ d)* ","ans":"b"},
@@ -62,6 +62,8 @@ def online_exam():
         print("Result: Pass")
     else:
         print("Result: Fail")
+        
+        
         
 if __name__=="__main__":
     online_exam()

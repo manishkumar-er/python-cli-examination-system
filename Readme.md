@@ -1,6 +1,6 @@
 ## About ME !
 
-    * Name: Manish Kuamr 
+    * Name: Manish Kumar
     * ERP : 01355
     * Section: M
     * Class : SA16

@@ -35,8 +35,9 @@ Verify that the system correctly calculates the score and declares **Pass** when
 ✅ Test Passed
 
 ### Screenshot
+![Uploading sampleOutput (1).png…]()
 
-![Test Case 1](sampleOutput (1))
+
 
 ---
 

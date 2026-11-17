@@ -58,8 +58,12 @@ def online_exam():
     print()
     print(f"Corrected: {correct} | Wrong: {wrong} | Skipped: {skip}")   
     print(f"Score:{obtained_marks}/{total_marks} | Percentage: {percentage:.2f}%  |",end="")
-    if(percentage>=40):
+    if(percentage>40):
         print("Result: Pass")
+    elif(percentage==40):
+        print("Result:Pass")
+        print("(minimum pass marks)")
+    
     else:
         print("Result: Fail")
         

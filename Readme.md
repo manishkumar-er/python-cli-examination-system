@@ -21,7 +21,7 @@ This project is designed to demonstrate fundamental Python programming concepts 
 [🚀] Features:- 
    * Multiple Choice Question (MCQ) based examination
    * Five pre-defined quiz questions
-   * Four answer options for each question (a, b, c, d)
+   * Four answer options for each question (a/A,b/B,c/C,d/D)
    * Option to skip questions
    * Input validation for incorrect entries
    * Automatic score calculation

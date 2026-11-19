@@ -36,8 +36,8 @@ def online_exam():
         print(question["options"])   
         
         while(True):
-            choose_opt=input("choose Your Correct option(a/b/c/d/s) : ")
-            if(choose_opt=="a" or choose_opt=="b" or choose_opt=="c" or choose_opt=="d" or choose_opt=="s"):
+            choose_opt=input("choose Your Correct option(a/b/c/d/s) : ").lower().strip()
+            if choose_opt in "abcds":
                 break
             else:
                 print("Invalid Options: Enter a ,b c, d or s to skip.")
